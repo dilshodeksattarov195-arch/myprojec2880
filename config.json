@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicefpdate",
+        "uuid": 20635200,
+        "checksum": "om5av7"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
